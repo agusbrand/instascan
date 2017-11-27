@@ -1,6 +1,6 @@
 {
   "name": "instascan-last",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "description": "Webcam-driven QR code scanner.",
   "main": "index.js",
   "scripts": {
