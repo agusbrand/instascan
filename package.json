@@ -1,6 +1,6 @@
 {
   "name": "instascan-last",
-  "version": "2.0.4",
+  "version": "2.0.6",
   "description": "Webcam-driven QR code scanner.",
   "main": "index.js",
   "scripts": {
@@ -45,6 +45,7 @@
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "fsm-as-promised": "^0.15.1",
-    "visibilityjs": "^1.2.6"
+    "visibilityjs": "^1.2.6",
+    "webrtc-adapter": "^6.0.2"
   }
 }
