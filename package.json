@@ -1,8 +1,8 @@
 {
-  "name": "instascan",
-  "version": "2.0.1",
+  "name": "instascan-last",
+  "version": "2.0.2",
   "description": "Webcam-driven QR code scanner.",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -32,8 +32,8 @@
   "devDependencies": {
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.6.0",
-    "babelify": "^7.3.0",
-    "browserify": "^14.4.0",
+    "babelify": "8.0.0",
+    "browserify": "^14.5.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.0",
     "gulp-rename": "^1.2.2",
@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "fsm-as-promised": "^0.14.5",
-    "visibilityjs": "^1.2.4"
+    "fsm-as-promised": "^0.15.1",
+    "visibilityjs": "^1.2.6"
   }
 }
