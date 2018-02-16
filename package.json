@@ -1,13 +1,13 @@
 {
   "name": "instascan-last",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "description": "Webcam-driven QR code scanner.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
-    "dist/"
+    "lib/"
   ],
   "repository": {
     "type": "git",
