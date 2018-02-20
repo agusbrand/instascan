@@ -1,6 +1,2 @@
 node_modules/
-lib/
 
-.DS_Store
-.idea/
-yarn.lock
