@@ -1,8 +1,8 @@
 'use strict';
 
 var Instascan = {
-  Scanner: require('./src/scanner'),
-  Camera: require('./src/camera')
+  Scanner: require('./lib/scanner'),
+  Camera: require('./lib/camera')
 };
 
 module.exports = Instascan;
